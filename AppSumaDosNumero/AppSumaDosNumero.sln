@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSumaDosNumero", "AppSumaDosNumero\AppSumaDosNumero.csproj", "{3045850B-E114-4F68-9805-1257C43F28F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3045850B-E114-4F68-9805-1257C43F28F3}.Debug|x86.ActiveCfg = Debug|x86
+		{3045850B-E114-4F68-9805-1257C43F28F3}.Debug|x86.Build.0 = Debug|x86
+		{3045850B-E114-4F68-9805-1257C43F28F3}.Release|x86.ActiveCfg = Release|x86
+		{3045850B-E114-4F68-9805-1257C43F28F3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AppSumaDosNumero\AppSumaDosNumero.csproj
+	EndGlobalSection
+EndGlobal
